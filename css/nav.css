@@ -1,0 +1,12 @@
+body {
+    background-color: silver;
+}
+.nav_bar {
+    font-size: 50px;
+    text-decoration: none;
+    color: rgb(132, 79, 9);
+}
+
+.nav_bar:active {
+    color: rgb(25, 119, 119);
+}
